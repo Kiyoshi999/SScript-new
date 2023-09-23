@@ -6,10 +6,8 @@ pres·er·va·tion
     the action of preserving something.
     "the preservation of the city's green spaces"
 
-    the state of being preserved, especially to a specified degree.
-    "the homestead is in a fine state of preservation"
-
 SScript is an easy to use Haxe script parser and interpreter, including class support and more. It aims to support all of the Haxe structures while being fast and easy to use.
+(This repo/fork is specifically for the purposes of preservation. No fixes will be made to it) 
 
 <details>
   <summary>About Classes</summary>
@@ -17,14 +15,17 @@ SScript is an easy to use Haxe script parser and interpreter, including class su
 </details>
 
 ## Installation
-This used to be viable to use on your FANKAN mods like so:
+This used to be viable to use like so:
 `haxelib install SScript`
 
 But now if you REALLY want to use it, try doing this, like so:
 
 `haxelib git SScript https://github.com/SScript-Guy/SScript-new`
 
-Funkin' isn't going anywhere!
+or for this specific repo, it would likely be:
+`haxelib git SScript https://github.com/Kiyoshi999/SScript-new`
+
+I don't know.
 
 ------------
 
