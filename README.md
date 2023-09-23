@@ -7,7 +7,7 @@ pres·er·va·tion
     "the preservation of the city's green spaces"
 
 SScript is an easy to use Haxe script parser and interpreter, including class support and more. It aims to support all of the Haxe structures while being fast and easy to use.
-(This repo/fork is specifically for the purposes of preservation. No fixes will be made to it) 
+(This repo/fork is specifically for the purposes of preservation, and for projects that rely on it -- No fixes will be made to it) 
 
 <details>
   <summary>About Classes</summary>
@@ -30,7 +30,7 @@ I don't know.
 ------------
 
 `haxelib git SScript https://github.com/TheWorldMachinima/SScript.git`
-
+(That repo doesn't even exist anymore, so uh, Have fun?)
 Enter this command in command prompt to get the latest git release from Github. 
 Git releases have the latest features but they are unstable and can cause problems.
 
@@ -296,4 +296,5 @@ It is recommended to override only `preset`, other functions were not written wi
 7. `currentSuperClass` is the actual parent class of `currentScriptClass`. It's type is `Class<Dynamic>`.
 
 ## Contact
-If you have any questions or requests, open an issue here or message me on my Discord (tahir#5885).
+If you have any questions open an issue
+(BUGS CANNOT AND WILL NOT BE FIXED -- DON'T BOTHER ASKING, I CANNOT CODE)
